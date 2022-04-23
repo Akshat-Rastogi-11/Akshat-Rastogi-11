@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshat-Rastogi
+- 👋 Hi, I’m Akshat-Rastogi
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on building startups from scratch.
