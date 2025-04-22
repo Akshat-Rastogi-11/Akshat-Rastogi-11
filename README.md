@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on building startups from scratch.
-- 📫 You can reach me via https://www.linkedin.com/in/akshat-rastogi-3a948b196/.
+- 📫 You can reach me via https://www.linkedin.com/in/rastogi-akshat/.
 
 <!---
 Akshat-Rastogi-11/Akshat-Rastogi-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
